@@ -1,0 +1,9 @@
+cacheConnection: false
+cacheTableNames: false
+properties:
+  schema: music_database
+caseInsensitiveStrategy: LOWERCASE
+connectionConfig:
+  url: jdbc:mysql://localhost:3307/music_database # MySQLの場合
+  user: user
+  password: password
