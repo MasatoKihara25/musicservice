@@ -1,0 +1,10 @@
+users:
+  - id: 1
+    title: "jaded"
+    artist: "Aero Smith"
+  - id: 2
+    title: "Runaway Baby"
+    artist: "Bruno Mars"
+  - id: 3
+    title: "WHY"
+    artist: "Avril Lavigne"
