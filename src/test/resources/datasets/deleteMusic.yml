@@ -1,0 +1,16 @@
+music:
+  - id: 1
+    title: "jaded"
+    artist: "Aero Smith"
+  - id: 2
+    title: "Runaway Baby"
+    artist: "Bruno Mars"
+  - id: 3
+    title: "WHY"
+    artist: "Avril Lavigne"
+  - id: 4
+    title: "It's My Life"
+    artist: "Bon Jovi"
+  - id: 5
+    title: "You're Young"
+    artist: "Fun"

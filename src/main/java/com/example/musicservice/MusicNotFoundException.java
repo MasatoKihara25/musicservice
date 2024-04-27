@@ -1,2 +1,8 @@
-package com.example.musicservice;public class MusicNot {
+package com.example.musicservice;
+
+public class MusicNotFoundException extends RuntimeException {
+
+    public MusicNotFoundException(String message) {
+        super(message);
+    }
 }
