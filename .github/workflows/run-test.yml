@@ -27,4 +27,4 @@ jobs:
           gradle-version: '8.5'
 
       - name: Test with Gradle 8.5
-        run: gradle test
+        run: ./gradlew test
